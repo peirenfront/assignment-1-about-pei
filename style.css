@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizeing:border-box;
+}
+
+html{
+    font-family: 'Lato', 'Arial', 'sans-serif';
+    font-size:18px;
+    font-weight: 300;
+}
+
+header, nav ul, h1{
+	text-align:center;
+}
+main{
+	background-color: #c2c2d6;
+	padding:58px 0;
+}
+img{
+	width:16%;
+	margin:20px 0 20px;
+}
+h1{
+	font-size:2.8em;
+	color:white;
+	margin:23px 0 38px;
+}
+h1, h2{
+	text-transform: uppercase;
+	text-align: center;
+}
+h2,h3{
+	font-size:2.6em;
+	font-weight:lighter;
+}
+h3{
+	padding:30px 166px 20px 166px;
+}
+h6{
+	color:white;
+	font-size:1.2em;
+	padding-top: 36px;
+	padding-left: 166px;
+}
+a {
+	text-decoration: none;
+} 
+a:link{
+    color: #FF330D;
+} 
+a:hover{
+    color: #FF330D;
+} 
+
+nav ul{
+	list-style:none;
+}
+nav ul li{
+	float:left;	
+	padding:0 10px;
+}
+nav ul li a{
+	font-size: 1.5em;
+	text-decoration: none;
+	color:black;
+}
+
+p{
+	font-size: 25px;
+	padding:26px 166px;
+}
+
+footer{
+	background-color: #38382e;
+	min-height: 160px;
+}
+/*classes*/
+
+.aboutlink{
+	padding-left:20px;
+}
+.excited{
+	font-size:.73em;
+	color:#FF330D;
+}
+.cvlink{
+	border-left:3px solid black;
+}
+.navwrapper{
+	width:250px;
+	margin:0 auto;
+	margin-top:10px;
+	margin-bottom:80px;
+}
+.bullet{
+	padding-top:26px;
+	padding-left:166px;
+	text-align:left;
+	font-size:2em;
+	padding-bottom:20px;	
+}
+
+.resumedes{
+	padding-top:0;
+}
+.sylvania{
+	padding-top:26px;
+}
+.emailme{
+	color:orange;
+	padding-top:0;
+	margin:10px;
+}
+
+
+/*IDs*/
+#work img{
+	margin-left: 166px;
+	width:80%;
+}
+
+
+
+
+
+
+

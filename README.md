@@ -1,5 +1,5 @@
-# about-me
+# about-Pei Ren
 
-Starter Repo for GA FEWD Class Assignment #1: Change this README file to be a description of your project, that includes your name.
+Starter Repo for GA FEWD Class Assignment #1: This is a simple about me web site that includes my work experience and samples.
 
 
